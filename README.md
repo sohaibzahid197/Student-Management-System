@@ -1,2 +1,2 @@
 # c-projects
-Student Management system
+Student Management system using Data Structure Concepts
